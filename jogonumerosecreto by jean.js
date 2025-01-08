@@ -70,14 +70,3 @@ function reiniciarJogo() {
 }
 
 exibirTextoInicial();
-
-
-
-
-
-
-
-
-
-
-
