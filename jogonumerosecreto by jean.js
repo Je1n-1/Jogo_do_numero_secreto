@@ -22,7 +22,6 @@ function exibirTextoInicial() {
 }
 
 function verificarChute() {
-    // Obtém o valor do campo input
     let chute = parseInt(document.querySelector('input').value);
     
     if (chute === numeroSecreto) {
@@ -70,7 +69,6 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', 'true');
 }
 
-// Exibindo o texto inicial ao carregar a página
 exibirTextoInicial();
 
 
