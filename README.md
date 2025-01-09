@@ -26,7 +26,7 @@ Este projeto foi desenvolvido para praticar lógica de programação e é utiliz
 
 ## 👨‍💻 Criador  
 - **Jean Land**  
-  - [Repositório no GitHub]()  
+  - [Repositório no GitHub](https://github.com/Je1n-1/Jogo_do_numero_secreto)  
 
 ---
 
