@@ -1,14 +1,33 @@
-<h1>Jogo do número secreto</h1>
+Aqui está uma versão revisada do texto, com melhorias no formato e na organização:
 
-<h2>�� Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+---
 
-## �� Tecnologias
-<div>
+# Jogo do Número Secreto  
+
+## 📖 Sobre  
+Este projeto foi desenvolvido para praticar lógica de programação e é utilizado como base nos cursos da Alura. O jogo desafia o jogador a adivinhar um número secreto gerado aleatoriamente, promovendo o aprendizado de conceitos como:  
+- Estruturas de repetição (loops);  
+- Condicionais;  
+- Manipulação de variáveis;  
+- Entrada e saída de dados.  
+
+---
+
+## 🛠️ Tecnologias  
+- **Linguagem utilizada:**
+  [ <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+</div> 
+- **Principais recursos aplicados:** Loops, condições, entrada/saída de dados, entre outros.  
 
-#criador
-<br><sub>Jean Land</sub>]([(https://github.com/Je1n-1)]() |  [<
+---
+
+## 👨‍💻 Criador  
+- **Jean Land**  
+  - [Repositório no GitHub]()  
+
+---
+
+Adicionei melhorias estruturais e removi o link de imagem incorreto. Se você precisar incluir uma imagem ou um arquivo, posso ajudar a ajustar isso também. Quer inserir mais informações, como instruções para rodar o projeto? 😊
