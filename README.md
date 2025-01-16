@@ -30,4 +30,3 @@ Este projeto foi desenvolvido para praticar lógica de programação e é utiliz
 
 ---
 
-Adicionei melhorias estruturais e removi o link de imagem incorreto. Se você precisar incluir uma imagem ou um arquivo, posso ajudar a ajustar isso também. Quer inserir mais informações, como instruções para rodar o projeto? 😊
